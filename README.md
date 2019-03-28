@@ -1,6 +1,6 @@
   # Laravel Pusher Chat
   
-  This laravel pusher chat is a free, open source and one to one chat software designed for demo and learning. It is built with modern technologies such as Laravel, Bootstrap, jQuery, Pusher etc. Thanks to webmobtuts who is provided the tutorials for it, This provides an awesome chat system for users and developers.
+  This laravel pusher chat is a free, open source and one to one chat software designed for demo and learning. It is built with modern technologies such as Laravel, Bootstrap, jQuery, Pusher etc. Thanks to [web mob tuts](http://webmobtuts.com/backend-development/implementing-a-chat-app-using-laravel-and-pusher/) who is provided the tutorials for it, This provides an awesome chat system for users and developers.
   
   ## Requirements
   
